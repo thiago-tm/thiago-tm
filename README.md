@@ -17,18 +17,19 @@ I am a creative, collaborative professional, committed to delivering efficient a
         height="40"
     />
     <a href="https://github.com/thiago-tm">
-    <img alt="Github" title="My GitHub" src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white"/>
+    <img alt="Github" title="My GitHub" style="text-decoration: none; " src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
     <a href="https://www.instagram.com/thiagotinfre">
         <img 
             alt="Instagram" 
             title="Follow in Instagram" 
+            style="text-decoration: none; "
             src=https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
     <img 
-    alt="Localização" 
-    title="Minha localização" 
+    alt="Location" 
+    title="My location" 
     src="https://img.shields.io/badge/-Curitiba,%20Brasil-black?style=for-the-badge&logo=google-maps&logoColor=white"
 />
 </a>
