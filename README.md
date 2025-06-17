@@ -9,34 +9,32 @@ Throughout my journey, I have participated in projects involving the creation an
 I am a creative, collaborative professional, committed to delivering efficient and relevant solutions. I believe technology should simplify, engage, and generate real value for the company..
 
 <p align="left">
-<a href="https://www.linkedin.com/in/thiago-tinfre-marcelino-247812262/" target="_blank" title="My LinkedIn" style="text-decoration: none; ">
+<a href="https://www.linkedin.com/in/thiago-tinfre-marcelino-247812262/" target="_blank" title="My LinkedIn">
     <img 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
         alt="LinkedIn"
         width="40"
         height="40"
     />
-    <a href="https://github.com/thiago-tm">
-    <img alt="Github" title="My GitHub" style="text-decoration: none; " src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-    <a href="https://www.instagram.com/thiagotinfre">
-        <img 
-            alt="Instagram" 
-            title="Follow in Instagram" 
-            style="text-decoration: none; "
-            src=https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a>
+</a>
+    <a href="https://github.com/thiago-tm" target="_blank" title="My GitHub">
+  <img 
+    alt="GitHub" 
+    src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white"
+  />
+</a>
+   <a href="https://www.instagram.com/thiagotinfre" target="_blank">
+  <img 
+    alt="Instagram" 
+    title="My Instagram" 
+    src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white"
+  />
+</a>
     <img 
     alt="Location" 
     title="My location" 
     src="https://img.shields.io/badge/-Curitiba,%20Brasil-black?style=for-the-badge&logo=google-maps&logoColor=white"
 />
-</a>
-</a>
-    
-    
-</p>
 
 ---
 
@@ -50,6 +48,7 @@ I am a creative, collaborative professional, committed to delivering efficient a
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
     alt="CSS" 
@@ -100,6 +99,8 @@ I am a creative, collaborative professional, committed to delivering efficient a
 />
 <br/>
 <br/>
+
+---
 
 ### 📊 Statistics
 
