@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Thiago Tinfre Marcelino
+# 👨🏻‍💻 Thiago Tinfre Marcelino
 
 **`Frontend Developer`**
 
