@@ -17,12 +17,7 @@ I am a creative, collaborative professional, committed to delivering efficient a
         height="40"
     />
 </a>
-    <a href="https://github.com/thiago-tm" target="_blank" title="My GitHub">
-  <img 
-    alt="GitHub" 
-    src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white"
-  />
-</a>
+    
    <a href="https://www.instagram.com/thiagotinfre" target="_blank">
   <img 
     alt="Instagram" 
